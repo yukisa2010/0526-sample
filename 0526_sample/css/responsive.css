@@ -1,0 +1,33 @@
+@media (max-width: 670px){
+
+  .pc {
+    display: none;
+  }
+
+  .sp {
+    display: block;
+  }
+
+  .sp table {
+    width: 400px;
+  }
+
+  .sp table .blue {
+    line-height: 50px;
+  }
+
+  .sp table .skyblue span {
+    font-size: 14px;
+  }
+
+
+  #top-message {
+    font-size: 14px;
+  }
+    .content {
+    font-size: 14px;
+  }
+
+
+
+}
